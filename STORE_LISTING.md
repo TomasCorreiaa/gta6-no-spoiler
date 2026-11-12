@@ -50,18 +50,22 @@ Required to run the content script on the supported platforms enabled by the use
 - **Data Usage Certification:**
   - Não recolhe nenhum dos tipos de dados pessoais/sensíveis listados (deixar tudo desmarcado).
   - Confirmar as 3 declarações de conformidade (não vende dados, não usa para fins não relacionados, etc.).
-- **Privacy Policy URL:** alojar o ficheiro `PRIVACY.md` (ex.: num repositório GitHub público ou GitHub Pages) e colar o URL público, depois de substituir `[YOUR EMAIL HERE]` pelo teu email.
+- **Privacy Policy URL:** `https://tomascorreiaa.github.io/gta6-no-spoiler/`
+- **Homepage / Support URL (opcional):** `https://github.com/TomasCorreiaa/gta6-no-spoiler`
 
 ---
 
-## 3. O que precisamos de ti (Checklist manual)
-1. **Conta de Developer na Chrome Web Store:** criar conta e pagar a taxa única de registo (5 USD) no Developer Dashboard.
-2. **Email na Política de Privacidade:** editar `PRIVACY.md` e substituir `[YOUR EMAIL HERE]` pelo teu email de contacto/suporte, e alojar o ficheiro num URL público (ex.: GitHub).
-3. **Screenshots (obrigatório: pelo menos 1, recomendado 2–3 em `1280x800` ou `640x400`, PNG/JPEG sem transparência):**
-   - Carregar a extensão localmente em `chrome://extensions` → **Ativar Modo de programador** → **Carregar expandida** → selecionar a pasta `GTA6NOSPOILER`.
-   - Tirar prints do **popup aberto** e do **YouTube com o overlay / modo blur** ativo (ex.: `1280x800`).
-4. **Assets promocionais (já gerados em `store-assets/`):**
-   - Small promo tile: `store-assets/promo-small-440x280.png`
-   - Marquee promo tile (opcional): `store-assets/promo-marquee-1400x560.png`
-5. **Submeter para revisão:** fazer upload do `dist/gta6-no-spoiler-1.0.0.zip`, preencher os campos acima e enviar para revisão da Google (normalmente 1–3 dias úteis).
+## 3. Assets já prontos em `store-assets/`
+- **Screenshots (`1280x800`):**
+  - `store-assets/screenshot-1-popup-1280x800.png`
+  - `store-assets/screenshot-2-blur-1280x800.png`
+  - `store-assets/screenshot-3-overlay-1280x800.png`
+- **Banners promocionais:**
+  - Small promo tile (`440x280`): `store-assets/promo-small-440x280.png`
+  - Marquee promo tile (`1400x560`): `store-assets/promo-marquee-1400x560.png`
+
+## 4. Submissão na Chrome Web Store
+1. Ativar GitHub Pages em `https://github.com/TomasCorreiaa/gta6-no-spoiler/settings/pages` (`main` → `/docs`) para publicar `https://tomascorreiaa.github.io/gta6-no-spoiler/`.
+2. Fazer upload de `dist/gta6-no-spoiler-1.0.0.zip` no Developer Dashboard.
+3. Preencher os campos acima, anexar os screenshots/banners e clicar em **Submit for review**.
 
