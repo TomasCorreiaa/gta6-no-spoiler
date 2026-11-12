@@ -1,0 +1,88 @@
+{
+  "extName": {
+    "message": "Pas de Spoilers pour GTA6"
+  },
+  "extDescription": {
+    "message": "Masque les vidéos GTA 6 sur l'accueil, la recherche, les chaînes et les recommandations YouTube pour éviter les spoilers. Bandes-annonces en option."
+  },
+  "popupEnabled": {
+    "message": "Protection active"
+  },
+  "popupMode": {
+    "message": "Lorsqu'un spoiler est détecté"
+  },
+  "popupModeHide": {
+    "message": "Masquer"
+  },
+  "popupModeBlur": {
+    "message": "Flouter (cliquer pour afficher)"
+  },
+  "popupAllowSection": {
+    "message": "Autoriser"
+  },
+  "popupAllowTrailers": {
+    "message": "Bandes-annonces officielles"
+  },
+  "popupOfficialOnly": {
+    "message": "Uniquement de la chaîne Rockstar Games"
+  },
+  "popupAllowReactions": {
+    "message": "Réactions aux bandes-annonces"
+  },
+  "popupProtectionSection": {
+    "message": "Protection supplémentaire"
+  },
+  "popupHideComments": {
+    "message": "Masquer les commentaires sur les vidéos GTA 6"
+  },
+  "popupStrictTerms": {
+    "message": "Mode strict (bloque aussi \"Vice City\", \"Lucia\", \"Rockstar\")"
+  },
+  "popupListsSection": {
+    "message": "Listes personnalisées (une par ligne)"
+  },
+  "popupCustomKeywords": {
+    "message": "Mots-clés supplémentaires à bloquer"
+  },
+  "popupBlockedChannels": {
+    "message": "Chaînes à bloquer"
+  },
+  "popupAllowedChannels": {
+    "message": "Chaînes toujours autorisées"
+  },
+  "popupCounter": {
+    "message": "Spoilers évités"
+  },
+  "popupPause": {
+    "message": "Mettre en pause 15 min"
+  },
+  "popupResume": {
+    "message": "Reprendre la protection"
+  },
+  "popupPausedUntil": {
+    "message": "En pause jusqu'à $TIME$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupDisclaimer": {
+    "message": "Non affilié à Rockstar Games ou Take-Two Interactive."
+  },
+  "overlayTitle": {
+    "message": "Spoiler potentiel de GTA 6"
+  },
+  "overlayText": {
+    "message": "Cette vidéo semble liée à GTA 6. Voulez-vous la regarder quand même ?"
+  },
+  "overlayBack": {
+    "message": "Revenir en arrière"
+  },
+  "overlayWatch": {
+    "message": "Regarder quand même"
+  },
+  "popupSitesSection": {
+    "message": "Plateformes"
+  }
+}

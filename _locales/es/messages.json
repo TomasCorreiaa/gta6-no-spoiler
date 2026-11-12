@@ -1,0 +1,88 @@
+{
+  "extName": {
+    "message": "Sin Spoilers de GTA6"
+  },
+  "extDescription": {
+    "message": "Oculta vídeos de GTA 6 en tu inicio, búsquedas, canales y recomendaciones de YouTube para evitar spoilers. Tráileres opcionales."
+  },
+  "popupEnabled": {
+    "message": "Protección activa"
+  },
+  "popupMode": {
+    "message": "Al encontrar un spoiler"
+  },
+  "popupModeHide": {
+    "message": "Ocultar"
+  },
+  "popupModeBlur": {
+    "message": "Desenfocar (clic para mostrar)"
+  },
+  "popupAllowSection": {
+    "message": "Permitir"
+  },
+  "popupAllowTrailers": {
+    "message": "Tráileres oficiales"
+  },
+  "popupOfficialOnly": {
+    "message": "Solo del canal Rockstar Games"
+  },
+  "popupAllowReactions": {
+    "message": "Reacciones a tráileres"
+  },
+  "popupProtectionSection": {
+    "message": "Protección extra"
+  },
+  "popupHideComments": {
+    "message": "Ocultar comentarios en vídeos de GTA 6"
+  },
+  "popupStrictTerms": {
+    "message": "Modo estricto (también bloquea \"Vice City\", \"Lucia\", \"Rockstar\")"
+  },
+  "popupListsSection": {
+    "message": "Listas personalizadas (una por línea)"
+  },
+  "popupCustomKeywords": {
+    "message": "Palabras clave extra a bloquear"
+  },
+  "popupBlockedChannels": {
+    "message": "Canales a bloquear"
+  },
+  "popupAllowedChannels": {
+    "message": "Canales siempre permitidos"
+  },
+  "popupCounter": {
+    "message": "Spoilers evitados"
+  },
+  "popupPause": {
+    "message": "Pausar 15 min"
+  },
+  "popupResume": {
+    "message": "Reanudar protección"
+  },
+  "popupPausedUntil": {
+    "message": "En pausa hasta las $TIME$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupDisclaimer": {
+    "message": "Sin afiliación con Rockstar Games ni Take-Two Interactive."
+  },
+  "overlayTitle": {
+    "message": "Posible spoiler de GTA 6"
+  },
+  "overlayText": {
+    "message": "Este vídeo parece estar relacionado con GTA 6. ¿Quieres verlo de todos modos?"
+  },
+  "overlayBack": {
+    "message": "Volver atrás"
+  },
+  "overlayWatch": {
+    "message": "Ver de todos modos"
+  },
+  "popupSitesSection": {
+    "message": "Plataformas"
+  }
+}

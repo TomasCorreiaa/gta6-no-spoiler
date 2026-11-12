@@ -1,0 +1,88 @@
+{
+  "extName": {
+    "message": "No Spoiler for GTA6"
+  },
+  "extDescription": {
+    "message": "Hides GTA 6 videos from your YouTube home, search, channels and recommendations so you stay spoiler-free. Optional trailers."
+  },
+  "popupEnabled": {
+    "message": "Protection active"
+  },
+  "popupMode": {
+    "message": "When a spoiler is found"
+  },
+  "popupModeHide": {
+    "message": "Hide"
+  },
+  "popupModeBlur": {
+    "message": "Blur (click to reveal)"
+  },
+  "popupAllowSection": {
+    "message": "Allow"
+  },
+  "popupAllowTrailers": {
+    "message": "Official trailers"
+  },
+  "popupOfficialOnly": {
+    "message": "Only from the Rockstar Games channel"
+  },
+  "popupAllowReactions": {
+    "message": "Trailer reactions"
+  },
+  "popupProtectionSection": {
+    "message": "Extra protection"
+  },
+  "popupHideComments": {
+    "message": "Hide comments on GTA 6 videos"
+  },
+  "popupStrictTerms": {
+    "message": "Strict mode (also blocks \"Vice City\", \"Lucia\", \"Rockstar\")"
+  },
+  "popupListsSection": {
+    "message": "Custom lists (one per line)"
+  },
+  "popupCustomKeywords": {
+    "message": "Extra keywords to block"
+  },
+  "popupBlockedChannels": {
+    "message": "Channels to block"
+  },
+  "popupAllowedChannels": {
+    "message": "Channels always allowed"
+  },
+  "popupCounter": {
+    "message": "Spoilers avoided"
+  },
+  "popupPause": {
+    "message": "Pause for 15 min"
+  },
+  "popupResume": {
+    "message": "Resume protection"
+  },
+  "popupPausedUntil": {
+    "message": "Paused until $TIME$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupDisclaimer": {
+    "message": "Not affiliated with Rockstar Games or Take-Two Interactive."
+  },
+  "overlayTitle": {
+    "message": "Possible GTA 6 spoiler"
+  },
+  "overlayText": {
+    "message": "This video looks related to GTA 6. Do you want to watch it anyway?"
+  },
+  "overlayBack": {
+    "message": "Take me back"
+  },
+  "overlayWatch": {
+    "message": "Watch anyway"
+  },
+  "popupSitesSection": {
+    "message": "Platforms"
+  }
+}

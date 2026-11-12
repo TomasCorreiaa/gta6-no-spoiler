@@ -1,0 +1,88 @@
+{
+  "extName": {
+    "message": "GTA6 防劇透"
+  },
+  "extDescription": {
+    "message": "在 YouTube 首頁、搜尋、頻道與推薦中隱藏 GTA 6 相關影片，避免劇透。可選允許官方預告片。"
+  },
+  "popupEnabled": {
+    "message": "保護已啟用"
+  },
+  "popupMode": {
+    "message": "偵測到劇透時"
+  },
+  "popupModeHide": {
+    "message": "隱藏"
+  },
+  "popupModeBlur": {
+    "message": "模糊（點擊顯示）"
+  },
+  "popupAllowSection": {
+    "message": "允許"
+  },
+  "popupAllowTrailers": {
+    "message": "官方預告片"
+  },
+  "popupOfficialOnly": {
+    "message": "僅限 Rockstar Games 官方頻道"
+  },
+  "popupAllowReactions": {
+    "message": "預告片反應影片"
+  },
+  "popupProtectionSection": {
+    "message": "額外保護"
+  },
+  "popupHideComments": {
+    "message": "隱藏 GTA 6 影片的留言"
+  },
+  "popupStrictTerms": {
+    "message": "嚴格模式（同時封鎖 \"Vice City\"、\"Lucia\"、\"Rockstar\"）"
+  },
+  "popupListsSection": {
+    "message": "自訂清單（每行一項）"
+  },
+  "popupCustomKeywords": {
+    "message": "額外封鎖的關鍵字"
+  },
+  "popupBlockedChannels": {
+    "message": "封鎖的頻道"
+  },
+  "popupAllowedChannels": {
+    "message": "永遠允許的頻道"
+  },
+  "popupCounter": {
+    "message": "已避開劇透"
+  },
+  "popupPause": {
+    "message": "暫停 15 分鐘"
+  },
+  "popupResume": {
+    "message": "恢復保護"
+  },
+  "popupPausedUntil": {
+    "message": "已暫停至 $TIME$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupDisclaimer": {
+    "message": "與 Rockstar Games 或 Take-Two Interactive 無關聯。"
+  },
+  "overlayTitle": {
+    "message": "可能包含 GTA 6 劇透"
+  },
+  "overlayText": {
+    "message": "這部影片似乎與 GTA 6 有關，確定要繼續觀看嗎？"
+  },
+  "overlayBack": {
+    "message": "返回"
+  },
+  "overlayWatch": {
+    "message": "仍然觀看"
+  },
+  "popupSitesSection": {
+    "message": "適用平台"
+  }
+}

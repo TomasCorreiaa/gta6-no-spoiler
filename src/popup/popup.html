@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <img src="../../icons/icon48.png" alt="" width="32" height="32">
+    <h1 data-i18n="extName"></h1>
+  </header>
+
+  <label class="row main">
+    <span data-i18n="popupEnabled"></span>
+    <input type="checkbox" name="enabled" class="switch">
+  </label>
+
+  <div class="pause">
+    <span id="pausedInfo"></span>
+    <button id="pauseBtn" type="button"></button>
+  </div>
+
+  <section>
+    <h2 data-i18n="popupMode"></h2>
+    <label class="row"><input type="radio" name="mode" value="hide"><span data-i18n="popupModeHide"></span></label>
+    <label class="row"><input type="radio" name="mode" value="blur"><span data-i18n="popupModeBlur"></span></label>
+  </section>
+
+  <section>
+    <h2 data-i18n="popupAllowSection"></h2>
+    <label class="row"><input type="checkbox" name="allowTrailers"><span data-i18n="popupAllowTrailers"></span></label>
+    <label class="row sub"><input type="checkbox" name="officialOnly"><span data-i18n="popupOfficialOnly"></span></label>
+    <label class="row"><input type="checkbox" name="allowReactions"><span data-i18n="popupAllowReactions"></span></label>
+  </section>
+
+  <section>
+    <h2 data-i18n="popupProtectionSection"></h2>
+    <label class="row"><input type="checkbox" name="hideComments"><span data-i18n="popupHideComments"></span></label>
+    <label class="row"><input type="checkbox" name="strictTerms"><span data-i18n="popupStrictTerms"></span></label>
+  </section>
+
+  <section>
+    <h2 data-i18n="popupSitesSection"></h2>
+    <div class="sites-grid">
+      <label class="row"><input type="checkbox" data-site="youtube"><span>YouTube</span></label>
+      <label class="row"><input type="checkbox" data-site="twitch"><span>Twitch</span></label>
+      <label class="row"><input type="checkbox" data-site="tiktok"><span>TikTok</span></label>
+      <label class="row"><input type="checkbox" data-site="twitter"><span>X (Twitter)</span></label>
+      <label class="row"><input type="checkbox" data-site="facebook"><span>Facebook</span></label>
+      <label class="row"><input type="checkbox" data-site="instagram"><span>Instagram</span></label>
+      <label class="row"><input type="checkbox" data-site="whatsapp"><span>WhatsApp</span></label>
+    </div>
+  </section>
+
+  <details>
+    <summary data-i18n="popupListsSection"></summary>
+    <label class="list"><span data-i18n="popupCustomKeywords"></span><textarea name="customKeywords" rows="3"></textarea></label>
+    <label class="list"><span data-i18n="popupBlockedChannels"></span><textarea name="blockedChannels" rows="3"></textarea></label>
+    <label class="list"><span data-i18n="popupAllowedChannels"></span><textarea name="allowedChannels" rows="3"></textarea></label>
+  </details>
+
+  <footer>
+    <div class="counter"><strong id="counter">0</strong> <span data-i18n="popupCounter"></span></div>
+    <small data-i18n="popupDisclaimer"></small>
+  </footer>
+
+  <script src="../shared/settings.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
+
