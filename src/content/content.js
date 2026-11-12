@@ -1,4 +1,4 @@
-// Content script: observa o DOM (YouTube e Twitch) e esconde/desfoca conteúdo relacionado com GTA 6.
+// Content script: observa o DOM das plataformas suportadas e esconde/desfoca conteúdo relacionado com GTA 6.
 
 (() => {
   const { VERDICT, compile, evaluate, normalize, mentionsGta6 } = GTA6Filter;
@@ -7,7 +7,7 @@
 
   let settings = null;
   let rules = null;
-  let lastText = new WeakMap(); // cartão -> texto já avaliado (o YouTube recicla nós)
+  let lastText = new WeakMap(); // cartão -> texto já avaliado (os feeds reciclam nós)
   const revealed = new WeakSet(); // cartões desfocados que o utilizador revelou
   const revealedVideos = new Set(); // ids de vídeos que o utilizador decidiu ver
   const pending = new Set();

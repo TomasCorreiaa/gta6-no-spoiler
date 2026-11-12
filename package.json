@@ -2,7 +2,7 @@
   "name": "gta6-no-spoiler",
   "version": "1.0.0",
   "private": true,
-  "description": "Chrome extension that hides GTA 6 spoilers on YouTube.",
+  "description": "Chrome extension that hides GTA 6 spoilers across YouTube, Twitch, TikTok, X, Facebook, Instagram, and WhatsApp Web.",
   "scripts": {
     "test": "node --test tests/filter.test.js",
     "package": "powershell -ExecutionPolicy Bypass -File scripts/package.ps1"

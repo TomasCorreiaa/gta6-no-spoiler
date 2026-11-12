@@ -17,15 +17,16 @@ Este ficheiro contém os textos prontos a copiar para o **Chrome Web Store Devel
 - **Language:** `English` (default) + `Portuguese (Portugal)` (`_locales/pt_PT`).
 - **Detailed Description (EN):**
 ```text
-Avoid GTA 6 spoilers on YouTube without leaving the platform.
+Stay spoiler-free online. Avoid GTA 6 spoilers across your favorite platforms without leaving them.
 
-No Spoiler for GTA 6 automatically hides or blurs GTA 6 videos across your YouTube homepage, search results, channel pages, Shorts, and "Up Next" recommendations.
+No Spoiler for GTA6 automatically hides or blurs GTA 6 spoilers across YouTube, Twitch, TikTok, X (Twitter), Facebook, Instagram, and WhatsApp Web.
 
 Features:
 • Automatic filtering: detects GTA 6, GTA VI, Grand Theft Auto 6, Leonida, Jason & Lucia, and related terms.
-• Hide or Blur mode: completely hide videos or blur them with click-to-reveal.
+• Per-platform toggles: choose which platforms to protect (YouTube, Twitch, TikTok, X, Facebook, Instagram, WhatsApp).
+• Hide or Blur mode: completely hide spoilers or blur them with click-to-reveal.
 • Trailers & Reactions (optional): allow official trailers (with an option for Rockstar Games channel only) and trailer reactions while still blocking leaks, breakdowns, and gameplay spoilers.
-• Watch-page protection: overlays direct links to GTA 6 videos and can hide comments on GTA 6 videos.
+• Watch-page protection: overlays direct links to GTA 6 videos/streams and can hide comments and live chat.
 • Custom lists: add extra keywords, blocked channels, or always-allowed channels.
 • Quick pause: pause protection for 15 minutes with one click.
 • 100% local & private: zero tracking, zero analytics, no external servers.
