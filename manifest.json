@@ -3,7 +3,7 @@
   "name": "__MSG_extName__",
   "short_name": "No Spoiler GTA6",
   "description": "__MSG_extDescription__",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_locale": "en",
   "homepage_url": "https://github.com/TomasCorreiaa/gta6-no-spoiler",
   "icons": {

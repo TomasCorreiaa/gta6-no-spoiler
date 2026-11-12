@@ -5,7 +5,7 @@ Este ficheiro contém os textos prontos a copiar para o **Chrome Web Store Devel
 ---
 
 ## 1. Ficheiro da extensão (ZIP)
-- Já gerado em `dist/gta6-no-spoiler-1.0.0.zip` (via `npm run package`).
+- Já gerado em `dist/gta6-no-spoiler-1.0.1.zip` (via `npm run package`).
 - Contém apenas: `manifest.json`, `_locales/`, `icons/`, `src/`.
 
 ---
@@ -17,16 +17,16 @@ Este ficheiro contém os textos prontos a copiar para o **Chrome Web Store Devel
 - **Language:** `English` (default) + `Portuguese (Portugal)` (`_locales/pt_PT`).
 - **Detailed Description (EN):**
 ```text
-Stay spoiler-free online. Avoid GTA 6 spoilers across your favorite platforms without leaving them.
+Stay spoiler-free online. Avoid GTA 6 spoilers across your favorite video and social platforms without leaving them.
 
-No Spoiler for GTA6 automatically hides or blurs GTA 6 spoilers across YouTube, Twitch, TikTok, X (Twitter), Facebook, Instagram, and WhatsApp Web.
+No Spoiler for GTA6 automatically hides or blurs spoiler content across supported video sites, live streams, social feeds, and web messaging.
 
 Features:
-• Automatic filtering: detects GTA 6, GTA VI, Grand Theft Auto 6, Leonida, Jason & Lucia, and related terms.
-• Per-platform toggles: choose which platforms to protect (YouTube, Twitch, TikTok, X, Facebook, Instagram, WhatsApp).
+• Automatic filtering: detects game-related titles, posts, and channels locally in your browser.
+• Per-platform toggles: choose individually which supported sites to protect from the extension popup.
 • Hide or Blur mode: completely hide spoilers or blur them with click-to-reveal.
-• Trailers & Reactions (optional): allow official trailers (with an option for Rockstar Games channel only) and trailer reactions while still blocking leaks, breakdowns, and gameplay spoilers.
-• Watch-page protection: overlays direct links to GTA 6 videos/streams and can hide comments and live chat.
+• Trailers & Reactions (optional): allow official trailers (with an option for the official channel only) and trailer reactions while still blocking leaks, breakdowns, and gameplay spoilers.
+• Watch-page protection: overlays direct links to spoiler videos or streams and can hide comments and live chat.
 • Custom lists: add extra keywords, blocked channels, or always-allowed channels.
 • Quick pause: pause protection for 15 minutes with one click.
 • 100% local & private: zero tracking, zero analytics, no external servers.
