@@ -40,9 +40,9 @@ Enable or disable protection individually per platform in the extension popup:
 
 ## Screenshots
 
-| Extension Popup | Blur Mode (Official Trailers Allowed) |
+| Extension Popup | Protection OFF vs Blur Mode ON |
 |---|---|
-| ![Popup](store-assets/screenshot-1-popup-1280x800.png) | ![Blur Mode](store-assets/screenshot-2-blur-1280x800.png) |
+| ![Popup](store-assets/screenshot-1-popup-1280x800.png) | ![Blur Mode](store-assets/screenshot-2-blur-compare-1280x800.png) |
 
 ## Install Locally (Developer Mode)
 

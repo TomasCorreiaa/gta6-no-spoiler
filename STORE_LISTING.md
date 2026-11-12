@@ -59,8 +59,9 @@ Required to run the content script on the supported platforms enabled by the use
 ## 3. Assets já prontos em `store-assets/`
 - **Screenshots (`1280x800`):**
   - `store-assets/screenshot-1-popup-1280x800.png`
-  - `store-assets/screenshot-2-blur-1280x800.png`
-  - `store-assets/screenshot-3-overlay-1280x800.png`
+  - `store-assets/screenshot-2-blur-compare-1280x800.png`
+  - `store-assets/screenshot-3-social-1280x800.png`
+  - `store-assets/screenshot-4-overlay-1280x800.png`
 - **Banners promocionais:**
   - Small promo tile (`440x280`): `store-assets/promo-small-440x280.png`
   - Marquee promo tile (`1400x560`): `store-assets/promo-marquee-1400x560.png`
